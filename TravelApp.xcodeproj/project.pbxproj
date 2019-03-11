@@ -11,6 +11,8 @@
 		94702BB52235EC5F00E17A0E /* RecommendedTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 94702BB32235EC5F00E17A0E /* RecommendedTableViewCell.xib */; };
 		94702BB82235F1AB00E17A0E /* TopLocationCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94702BB62235F1AB00E17A0E /* TopLocationCollectionViewCell.swift */; };
 		94702BB92235F1AB00E17A0E /* TopLocationCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 94702BB72235F1AB00E17A0E /* TopLocationCollectionViewCell.xib */; };
+		94702BBD2235FE5D00E17A0E /* Simulator Screen Shot - iPhone 8 - 2019-03-10 at 22.20.27_iphone8gold_portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 94702BBB2235FE5C00E17A0E /* Simulator Screen Shot - iPhone 8 - 2019-03-10 at 22.20.27_iphone8gold_portrait.png */; };
+		94702BBE2235FE5D00E17A0E /* Simulator Screen Shot - iPhone 8 - 2019-03-10 at 22.20.43_iphone8gold_portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 94702BBC2235FE5D00E17A0E /* Simulator Screen Shot - iPhone 8 - 2019-03-10 at 22.20.43_iphone8gold_portrait.png */; };
 		E133C06622285669004AC242 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E133C06522285669004AC242 /* AppDelegate.swift */; };
 		E133C06822285669004AC242 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E133C06722285669004AC242 /* ViewController.swift */; };
 		E133C06B22285669004AC242 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E133C06922285669004AC242 /* Main.storyboard */; };
@@ -26,6 +28,8 @@
 		94702BB32235EC5F00E17A0E /* RecommendedTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RecommendedTableViewCell.xib; sourceTree = "<group>"; };
 		94702BB62235F1AB00E17A0E /* TopLocationCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopLocationCollectionViewCell.swift; sourceTree = "<group>"; };
 		94702BB72235F1AB00E17A0E /* TopLocationCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TopLocationCollectionViewCell.xib; sourceTree = "<group>"; };
+		94702BBB2235FE5C00E17A0E /* Simulator Screen Shot - iPhone 8 - 2019-03-10 at 22.20.27_iphone8gold_portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 8 - 2019-03-10 at 22.20.27_iphone8gold_portrait.png"; sourceTree = "<group>"; };
+		94702BBC2235FE5D00E17A0E /* Simulator Screen Shot - iPhone 8 - 2019-03-10 at 22.20.43_iphone8gold_portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 8 - 2019-03-10 at 22.20.43_iphone8gold_portrait.png"; sourceTree = "<group>"; };
 		E133C06222285669004AC242 /* TravelApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TravelApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E133C06522285669004AC242 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E133C06722285669004AC242 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -49,6 +53,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		94702BBA2235FDC000E17A0E /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				94702BBB2235FE5C00E17A0E /* Simulator Screen Shot - iPhone 8 - 2019-03-10 at 22.20.27_iphone8gold_portrait.png */,
+				94702BBC2235FE5D00E17A0E /* Simulator Screen Shot - iPhone 8 - 2019-03-10 at 22.20.43_iphone8gold_portrait.png */,
+			);
+			path = Screenshots;
+			sourceTree = "<group>";
+		};
 		E133C05922285669004AC242 = {
 			isa = PBXGroup;
 			children = (
@@ -68,6 +81,7 @@
 		E133C06422285669004AC242 /* TravelApp */ = {
 			isa = PBXGroup;
 			children = (
+				94702BBA2235FDC000E17A0E /* Screenshots */,
 				E1D1F66B222996550089A2D3 /* Views */,
 				E133C06522285669004AC242 /* AppDelegate.swift */,
 				E133C06722285669004AC242 /* ViewController.swift */,
@@ -152,8 +166,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				E133C0702228566B004AC242 /* LaunchScreen.storyboard in Resources */,
+				94702BBD2235FE5D00E17A0E /* Simulator Screen Shot - iPhone 8 - 2019-03-10 at 22.20.27_iphone8gold_portrait.png in Resources */,
 				E133C07A22285B6C004AC242 /* FeaturedTableViewCell.xib in Resources */,
 				94702BB52235EC5F00E17A0E /* RecommendedTableViewCell.xib in Resources */,
+				94702BBE2235FE5D00E17A0E /* Simulator Screen Shot - iPhone 8 - 2019-03-10 at 22.20.43_iphone8gold_portrait.png in Resources */,
 				E133C06D2228566B004AC242 /* Assets.xcassets in Resources */,
 				E133C06B22285669004AC242 /* Main.storyboard in Resources */,
 				94702BB92235F1AB00E17A0E /* TopLocationCollectionViewCell.xib in Resources */,
