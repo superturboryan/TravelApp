@@ -1,5 +1,5 @@
 # TravelApp
-Simple Air-BnB interface clone, practicing CALayers and sublayering in order to MaskToBounds while not clipping shadows and corner radius functionality
+Simple Air-BnB interface clone, practicing CALayers and sublayering in order to MaskToBounds while not clipping shadows and preserving corner radius functionality
 
 ## Screenshots
 
